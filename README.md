@@ -1,11 +1,13 @@
-# Weather_Application
+![image](https://github.com/AmbrishShukla/Weather_Application/assets/104611402/5bcd2c57-51c6-46a7-af90-da8f17906e61)# Weather_Application
 shift to the master branch : 
 
+hosted on github pages : link : https://github.com/AmbrishShukla/Weather_Application
+
 the weather application is located on the master branch 
-Create a folder. You can name this folder whatever you want, and inside this folder, create the mentioned files.
-Create an index.html file. The file name must be index and its extension .html
-Create a style.css file. The file name must be style and its extension .css
-Create a script.js file. The file name must be script and its extension .js
+  Create a folder. You can name this folder whatever you want, and inside this folder, create the mentioned files.
+  Create an index.html file. The file name must be index and its extension .html
+  Create a style.css file. The file name must be style and its extension .css
+  Create a script.js file. The file name must be script and its extension .js
 
 Please note that your weather app is still unable to show the weather forecast for any location because you’ve not provided your OpenWeatherMap API key in the API_KEY variable. To get a free API key, sign up for an account at https://home.openweathermap.org/api_keys. Your API key may take minutes or hours to activate. You’ll get an error like “Invalid API Key” or something similar during this time.
 
