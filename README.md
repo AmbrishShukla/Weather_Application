@@ -1,4 +1,5 @@
 # Weather_Application
+shift to the master branch : 
 
 the weather application is located on the master branch 
 Create a folder. You can name this folder whatever you want, and inside this folder, create the mentioned files.
