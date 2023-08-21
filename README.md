@@ -1,5 +1,4 @@
-![image](https://github.com/AmbrishShukla/Weather_Application/assets/104611402/5bcd2c57-51c6-46a7-af90-da8f17906e61)# Weather_Application
-shift to the master branch : 
+*****shift to the master branch : 
 
 hosted on github pages : link : https://github.com/AmbrishShukla/Weather_Application
 
@@ -14,3 +13,6 @@ Please note that your weather app is still unable to show the weather forecast f
 In the code, there are two API calls. The first one fetches the geographic coordinates of the user-entered city. These coordinates are then used in the second API call to retrieve the weather forecast, which is displayed on the page. The code also includes a feature that asks for user location permission and, once granted, makes the second API call to fetch the weather forecast based on the user’s current location.
 
 
+![Screenshot 2023-08-21 125300](https://github.com/AmbrishShukla/Weather_Application/assets/104611402/12f1a85c-fb09-4bce-aa82-07b7f39c02ca)
+![Screenshot 2023-08-21 125337](https://github.com/AmbrishShukla/Weather_Application/assets/104611402/065e9cbf-90bd-4b44-a98e-ce59a7915c3a)
+![Screenshot 2023-08-21 125357](https://github.com/AmbrishShukla/Weather_Application/assets/104611402/63b3b01c-2356-4001-93b8-c8d82030dc84)
